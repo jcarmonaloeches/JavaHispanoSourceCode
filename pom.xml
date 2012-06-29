@@ -1,0 +1,8 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>es.cursoJ2ee</groupId>
+  <artifactId>aplicacionDeParejaOrganizacionDelTiempo</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Organización del tiempo de la pareja.</name>
+  <description>Describe una manera de poder organizar y analizar el tiempo que dedica un matrimonio a sus actividades cotidianas. Es de índole humanística, y procura tener un sentido espiritual y material. Requiere profundidad</description>
+</project>
